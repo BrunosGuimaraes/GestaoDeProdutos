@@ -1,0 +1,12 @@
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.deps.json
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.pdb
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.csproj.AssemblyReference.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.AssemblyInfoInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.AssemblyInfo.cs
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\refint\GestaoDeProdutos.Application.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.pdb
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net7.0\ref\GestaoDeProdutos.Application.dll

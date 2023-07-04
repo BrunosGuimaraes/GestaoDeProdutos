@@ -1,0 +1,15 @@
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\bin\Debug\net7.0\GestaoDeProdutos.Infra.Data.deps.json
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\bin\Debug\net7.0\GestaoDeProdutos.Infra.Data.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\bin\Debug\net7.0\GestaoDeProdutos.Infra.Data.pdb
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.AssemblyInfo.cs
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\refint\GestaoDeProdutos.Infra.Data.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.pdb
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\ref\GestaoDeProdutos.Infra.Data.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\bin\Debug\net7.0\GestaoDeProdutos.Domain.dll
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\bin\Debug\net7.0\GestaoDeProdutos.Domain.pdb
+C:\Projetos\CursoFormacaoArquiteto\GestaoDeProdutos\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.csproj.CopyComplete
